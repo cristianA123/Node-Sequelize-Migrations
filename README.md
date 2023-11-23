@@ -1,4 +1,4 @@
-# Node-Cascaron
+# Node-Cascaron ( Node, Sequelize, mysl, Migrations )
 
 ## Levantar el proyecto
 1. npm i
